@@ -1,3 +1,4 @@
+import hispan_shield_guardian  # noqa: F401
 #!/usr/bin/python3
 
 import os
